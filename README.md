@@ -13,4 +13,4 @@ This game simulates what it's like to be a space trader, traveling around the ga
   - Developing and using UML documents effectively
   - Applying standard design practices to large scale code
   - Creating and developing test cases
-  - Working in a team enviroment
+  - Working in a team environment
